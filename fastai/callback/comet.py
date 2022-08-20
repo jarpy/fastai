@@ -9,7 +9,7 @@ from ..basics import *
 from ..learner import Callback
 
 # %% auto 0
-__all__ = ['CometCallback']
+__all__ = ["CometCallback"]
 
 # %% ../nbs/70d_callback.comet.ipynb 13
 import comet_ml
